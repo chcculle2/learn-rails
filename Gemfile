@@ -16,7 +16,7 @@ gem 'spring'
 
 # learn-rails
 gem 'foundation-rails'
-gem 'gibbon'
+gem 'gibbon', '~> 1.2'
 gem "high_voltage", git: "git://github.com/thoughtbot/high_voltage.git"
 gem 'simple_form'
 group :development do
